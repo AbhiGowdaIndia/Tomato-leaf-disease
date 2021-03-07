@@ -8,3 +8,5 @@ It is a complete end-to-end deep learning project to identify the wether the tom
 
 The model is deployed using streamlit.
 
+The complete data used is taken from Kaggle and link is given in "Data" file.
+ 
