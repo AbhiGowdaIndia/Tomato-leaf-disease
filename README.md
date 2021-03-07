@@ -4,7 +4,7 @@ It is a complete end-to-end deep learning project to identify the wether the tom
 * Name of the disease, 
 * Cause for the disease, 
 * Symptoms and 
-* Treament for the disease.
+* Treatment for the disease.
 
 The model is deployed using streamlit.
 
